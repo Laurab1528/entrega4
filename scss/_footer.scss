@@ -1,0 +1,11 @@
+@import "_variableimport.scss";
+
+
+footer {
+    section{
+        h3 {
+        font-size: 2rem;
+        font-weight: 900;
+        text-align: $textocentrado;}
+  }
+}
